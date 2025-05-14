@@ -1,1 +1,1 @@
-console.log("Pozdrav iz prve vjezbe");
+console.log("Pozdrav od drugog developera");
